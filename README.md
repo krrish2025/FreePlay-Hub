@@ -4,7 +4,7 @@ FreePlay Hub is an Android application built with Kotlin that serves as a platfo
 
 ## 📺 Demo Video
 
-You can watch the application walkthrough here: [Demo Video](YOUR_GOOGLE_DRIVE_LINK_HERE)
+You can watch the application walkthrough here: [Demo Video](https://drive.google.com/file/d/1wuxU2Y43u4iMEx5CpsYXD_8QLBgp6xn6/view?usp=drivesdk)
 
 ## Features
 
