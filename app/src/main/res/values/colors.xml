@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="background_dark">#0F111A</color>
+    <color name="surface_dark">#1A1D2E</color>
+    <color name="primary_accent">#00E5FF</color>
+    <color name="secondary_accent">#7C4DFF</color>
+    <color name="text_primary">#F5F5F5</color>
+    <color name="text_secondary">#B0B3B8</color>
+
+    <!-- Glassmorphism Effects -->
+    <color name="glass_bg">#4D1A1D2E</color>
+    <color name="glass_stroke">#33FFFFFF</color>
+</resources>
